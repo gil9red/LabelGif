@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon">icons/MU.gif</file>
+    </qresource>
+</RCC>
